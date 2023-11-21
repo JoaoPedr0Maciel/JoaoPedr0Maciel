@@ -12,8 +12,10 @@
 </div>
   
   ##
+  
  
 <div> 
+
   
   <a href="https://www.instagram.com/j.pedr0zzx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "joaopedromaciel007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedr0maciel&show_icons=true&locale=en" alt="joaopedr0maciel" /></p>
 
 
+![lofi-gif-3](https://github.com/JoaoPedr0Maciel/JoaoPedr0Maciel/assets/146394493/a0631f06-d88e-49a8-9d3c-fa08c39c72e6)
