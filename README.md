@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedr0maciel&show_icons=true&locale=en" alt="joaopedr0maciel" /></p>
 
 
-![lofi-gif-3](https://github.com/JoaoPedr0Maciel/JoaoPedr0Maciel/assets/146394493/a0631f06-d88e-49a8-9d3c-fa08c39c72e6)
+![8be4efc0a8e5bc4903aae00db82cb982](https://github.com/JoaoPedr0Maciel/JoaoPedr0Maciel/assets/146394493/b364511e-3d82-4a68-b413-d1529af3ed50)
+
