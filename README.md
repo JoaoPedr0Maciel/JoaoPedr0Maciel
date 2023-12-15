@@ -1,6 +1,6 @@
 ## Opa, eu sou o João Pedro Maciel, sou desenvolvedor Front-End!
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node JS**
 
 - 💬 Ask me about **HTML5, CSS3, JS**
 
