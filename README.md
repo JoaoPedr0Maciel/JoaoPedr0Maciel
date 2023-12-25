@@ -1,8 +1,8 @@
 ## Opa, eu sou o João Pedro Maciel, sou desenvolvedor Front-End!
 
-- 🌱 I’m currently learning **React** and **Node JS**
+- 🌱 I’m currently learning  **Node JS**
 
-- 💬 Ask me about **HTML5, CSS3, JS**
+- 💬 Ask me about **HTML5, CSS3, JS, React, Sass, jQuery**
 
 
 <div style="display: inline_block"><br>
