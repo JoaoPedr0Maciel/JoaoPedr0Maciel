@@ -1,6 +1,6 @@
 ## Opa, eu sou o João Pedro Maciel, sou desenvolvedor Front-End!
 
-- 🌱 I’m currently learning  **PHP**
+- 🌱 I’m currently learning  **PHP and SQL**
 
 - 💬 Ask me about **HTML5, CSS3, JS, React, Sass**
 
@@ -13,6 +13,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
           
   
           
