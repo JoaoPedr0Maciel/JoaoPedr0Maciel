@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedr0maciel&show_icons=true&locale=en" alt="joaopedr0maciel" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedr0Maciel)](https://github.com/JoaoPedr0Maciel/github-readme-stats)
+
+![GIF](https://github.com/JoaoPedr0Maciel/JoaoPedr0Maciel/blob/main/assets/146394493/25976bb2-aa90-4812-a856-6f469fc82e04.gif)
