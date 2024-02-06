@@ -2,7 +2,7 @@
 
 >👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 >
->🌱 Aprendendo mais sobre: PHP8 eMySql
+>🌱 Aprendendo mais sobre: PHP8 e MySql
 
  <br/>
 
