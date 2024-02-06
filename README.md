@@ -1,12 +1,12 @@
  ## Sobre mim
 
->👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
->🌱 Aprendendo mais sobre: PHP8 e MySql
+>🌱 Learning more about: PHP8 e MySql
 
  <br/>
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
@@ -28,7 +28,7 @@
  <br/>
  
  ![](lineBar.png)
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ My github account information
 
 <div>
 <a href="https://github.com/mariana549">
@@ -38,7 +38,7 @@
 
 <br>
 
-### **Minhas redes sociais**
+### **My social networks**
 
 
 <div>
