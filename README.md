@@ -2,7 +2,7 @@
 
 >👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
->🌱 Learning more about: PHP8 e MySql
+>🌱 Learning more about: React with TS
 
  <br/>
 
