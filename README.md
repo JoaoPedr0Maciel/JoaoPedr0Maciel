@@ -1,4 +1,4 @@
- ## Sobre mim
+ ## About me
 
 >👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
