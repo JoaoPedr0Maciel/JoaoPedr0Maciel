@@ -19,7 +19,7 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?JoaoPedr0Maciel=DenverCoder1)](https://git.io/streak-stats)
+
 ### **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -33,7 +33,7 @@
 
 <div>
 <a href="https://github.com/JoaoPedr0Maciel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedr0Maciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedr0Maciel&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedr0Maciel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
