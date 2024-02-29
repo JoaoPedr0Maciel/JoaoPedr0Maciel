@@ -19,6 +19,7 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?JoaoPedr0Maciel=DenverCoder1)](https://git.io/streak-stats)
 ### **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
