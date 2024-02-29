@@ -31,7 +31,7 @@
  ![](lineBar.png)
 ## ⭐ My github account information
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedr0Maciel&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedr0Maciel&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats) <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedr0Maciel&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
