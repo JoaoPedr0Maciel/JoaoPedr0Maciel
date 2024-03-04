@@ -2,7 +2,7 @@
 
 >👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
->🌱 Learning more about: React with TS
+>🌱 Learning more about: React with TS  /  Python
 
  <br/>
 
