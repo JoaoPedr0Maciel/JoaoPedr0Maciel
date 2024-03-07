@@ -1,25 +1,9 @@
- ## About me
+<div align="center"><br>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá+Mundo!🌎;Meu+nome+é+João+Pedro.;Seja+bem-vindo+ao+meu+perfil!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+ 
+ <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,py,tailwind,mysql" />       
 
->👩🏾‍💻 Exploring new technologies and developing software solutions.
->
->🌱 Learning more about: React with TS  /  Python
-
- <br/>
-
-## 🚀 My Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
-  <img align="center" height="130" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  
-          
-          
-</div>
 
 
 ### **Ferramentas de desenvolvimento**
@@ -51,4 +35,4 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=JoaoPedr0Maciel&color=blueviolet&style=for-the-badge&label=CONTADOR)
-![](lineBar.png)
+</div>
