@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Hello+World!🌎;My+name+is+João+Pedro.;Welcome+to+my+profile!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
  
- <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,nodejs,mongo,mysql" /> </br>      
+ <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,nodejs,express,mongo,mysql" /> </br>      
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedr0Maciel&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats) <br /><br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedr0Maciel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="170" alt="languages graph"/>
