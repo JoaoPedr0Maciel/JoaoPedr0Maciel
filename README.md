@@ -1,6 +1,6 @@
 <div align="center"><br>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Hello+World!🌎;My+name+is+João+Pedro.;Welcome+to+my+profile!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffff&center=true&random=false&width=500&lines=Hello+World!🌎;My+name+is+João+Pedro.;Welcome+to+my+profile!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
  
  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,nodejs,express,mongo,mysql" /> </br>      
 
