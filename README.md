@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <a href="https://instagram.com/j.pedr0zzx/" target="_blank">
+  <a href="https://instagram.com/jpmacielsz/" target="_blank">
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/joão-pedro-maciel/" target="_blank">
