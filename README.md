@@ -5,7 +5,6 @@
  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,cs,dotnet,go,nextjs,nodejs,express,docker,mysql,postgres" /> </br></br> 
  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,rider" /> </br>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=JoaoPedr0Maciel&theme=dark) <br /><br />
 <div style={{display: "flex"}}>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedr0Maciel&layout=compact&theme=dark" />
  
