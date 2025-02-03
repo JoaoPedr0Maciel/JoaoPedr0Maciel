@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffff&center=true&random=false&width=500&lines=Hello+World!🌎;My+name+is+João+Pedro.;Welcome+to+my+profile!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
  
- <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,cs,dotnet,go,nextjs,nodejs,express,docker,mysql,postgres" /> </br></br> 
+ <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,cs,nest,go,nextjs,nodejs,express,docker,mysql,postgres" /> </br></br> 
  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,rider" /> </br>
 
 <div style={{display: "flex"}}>
