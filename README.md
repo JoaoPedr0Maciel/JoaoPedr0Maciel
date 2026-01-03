@@ -12,7 +12,7 @@
   <a href="https://instagram.com/jpmacielsz/" target="_blank">
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/joão-pedro-maciel-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-pedro-maciel-dev/" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
   <a href = "mailto:joaopedromaciel007@gmail.com" target="_blank">
