@@ -4,12 +4,6 @@
  
  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nest,go,nextjs,nodejs,docker,mysql,postgres" /> </br></br> 
  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,rider" /> </br>
-
-<div style={{display: "flex"}}>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedr0Maciel&layout=compact&theme=dark" />
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedr0Maciel&show_icons=true&theme=dark" />
-</div>
 </br>
 </br>
 
@@ -18,7 +12,7 @@
   <a href="https://instagram.com/jpmacielsz/" target="_blank">
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/joão-pedro-maciel/" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-pedro-maciel-dev/" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
   <a href = "mailto:joaopedromaciel007@gmail.com" target="_blank">
